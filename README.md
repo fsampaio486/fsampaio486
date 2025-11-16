@@ -17,7 +17,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### Eu estou estudando... 🧩
+### No momento estou estudando... 🧩
 
 ![React](https://img.shields.io/badge/React-deepskyblue?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-dodgerblue?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
@@ -27,7 +27,7 @@
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/fsampaio486">
-<img height="170em ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsampaio486&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsampaio486&layout=compact)"/>
 </div>
 
 ### Entre em contato comigo! 📭
@@ -37,4 +37,13 @@
 <a href="mailto:f.sampaio21@outlook.com"" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" target="_blank"></a>   
 </div>
 
+-----------------
+
+
+### GitHub Stats ⚡
+<div>
+<a href="https://github.com/lbguilherme">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbguilherme&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
