@@ -28,6 +28,7 @@
 <div>
 <a href="https://github.com/fsampaio486">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsampaio486&layout=compact)"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsampaio486&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Entre em contato comigo! 📭
