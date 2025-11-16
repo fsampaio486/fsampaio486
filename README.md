@@ -13,7 +13,7 @@
 ## Tecnologias e ferramentas que já utilizei 🔧
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%203-dimgray?style=for-the-badge&logo=CSS&logoColor=blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-dimgray?style=for-the-badge&logo=Tailwind%20CSS)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
