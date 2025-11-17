@@ -36,3 +36,7 @@
 <a href="https://instagram.com/oieefran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:f.sampaio21@outlook.com"" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" target="_blank"></a>   
 </div>
+
+---------------
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsampaio486)](https://github.com/anuraghazra/github-readme-stats)
