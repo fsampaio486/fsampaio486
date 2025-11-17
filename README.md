@@ -23,22 +23,10 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-dodgerblue?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
 
-<!--
-### GitHub Stats ⚡
-<div>
-<a href="https://github.com/fsampaio486">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsampaio486&layout=compact&langs_count=7&theme=dracula"/>
-</div>
--->
+
 ### Entre em contato comigo! 📭
 <div>
 <a href="https://www.linkedin.com/in/sampaio-franciele" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/oieefran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:f.sampaio21@outlook.com"" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" target="_blank"></a>   
 </div>
-
----------------
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsampaio486&=compact)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fsampaio486&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
