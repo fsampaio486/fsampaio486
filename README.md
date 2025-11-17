@@ -38,4 +38,7 @@
 </div>
 
 ---------------
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsampaio486&layout=compact)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fsampaio486&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
